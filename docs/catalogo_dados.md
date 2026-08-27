@@ -10,7 +10,7 @@ Os dados foram obtidos a partir de duas fontes distintas, posteriormente integra
 
 | Fonte | Arquivo | Conteúdo | URL | Licença/condições de uso | Data de acesso |
 |---|---|---|---|---|---|
-| WHO / Base de expectativa de vida | `WHO_life_expectancy.csv` | Indicadores de expectativa de vida, mortalidade, saúde e aspectos socioeconômicos | INSERIR URL | INSERIR | INSERIR |
+| WHO / Base de expectativa de vida | `WHO_life_expectancy.csv` | Indicadores de expectativa de vida, mortalidade, saúde e aspectos socioeconômicos | https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who/data | INSERIR | INSERIR |
 | Base de desenvolvimento humano | `IDH.csv` | Indicadores de escolaridade, educação e IDH | INSERIR URL | INSERIR | INSERIR |
 
 > Os valores mínimos e máximos observados apresentados neste catálogo correspondem à base analítica final de 2013. Para atributos sem limite superior formal informado pela fonte, não foi criado um valor máximo arbitrário.
