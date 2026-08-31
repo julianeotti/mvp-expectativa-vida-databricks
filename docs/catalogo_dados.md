@@ -11,7 +11,7 @@ Os dados foram obtidos a partir de duas fontes distintas, posteriormente integra
 | Fonte | Arquivo | Conteúdo | URL | Licença/condições de uso | Data de acesso |
 |---|---|---|---|---|---|
 | WHO / Base de expectativa de vida | `WHO_life_expectancy.csv` | Indicadores de expectativa de vida, mortalidade, saúde e aspectos socioeconômicos | https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who/data | Domínio público — CC0 1.0 Universal (CC0: Public Domain) | 22/08/2026 |
-| Base de desenvolvimento humano | `IDH.csv` | Indicadores de escolaridade, educação e IDH | https://hdr.undp.org/data-center/documentation-and-downloads | INSERIR | 22/08/2026 |
+| Base de desenvolvimento humano | `IDH.csv` | Indicadores de escolaridade, educação e IDH | https://hdr.undp.org/data-center/documentation-and-downloads | Creative Commons Atribuição 3.0 IGO (CC BY 3.0 IGO) | 22/08/2026 |
 
 > Os valores mínimos e máximos observados apresentados neste catálogo correspondem à base analítica final de 2013. Para atributos sem limite superior formal informado pela fonte, não foi criado um valor máximo arbitrário.
 
