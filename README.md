@@ -224,18 +224,6 @@ As análises também dependem das definições, classificações e métodos de c
 
 ---
 
-## Autoavaliação
-
-Os principais objetivos definidos para o MVP foram atingidos.
-
-Foi possível construir um pipeline completo no Databricks, abrangendo armazenamento em nuvem, ingestão, camadas Bronze, Silver e Gold, avaliação da qualidade, integração de fontes, modelagem dimensional e análise dos dados.
-
-Entre as principais dificuldades encontradas estiveram a transformação de atributos numéricos originalmente armazenados como texto, o tratamento de valores ausentes, a identificação de duplicidades e a conciliação entre bases provenientes de fontes diferentes.
-
-Como trabalhos futuros, o projeto pode ser ampliado para outros anos, permitindo análises temporais, além da incorporação de novas fontes de dados e métodos estatísticos mais avançados.
-
----
-
 ## Estrutura do repositório
 
 ```text
